@@ -46,7 +46,7 @@ This project analyzes the Air Quality Index (AQI) of Indian cities over a 10-yea
 
 3. Clone this repository:
    
-   git clone https://github.com/divyangshgupta7355/HCL.git
+   git clone (https://github.com/Divytech90/HCLPROJECT)
 
 4. Open the project folder.
 
@@ -66,7 +66,7 @@ This project demonstrates data analysis, statistical computation, and visualizat
 
 👨‍💻 Author
 
-Divya pratap singh
+Divya Pratap Singh
 
 ---
 
